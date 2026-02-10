@@ -19,7 +19,7 @@ CTO & Co-founder at [Playbox AI](https://plbx.ai) — building an AI production 
 
 #### Pet Projects
 
-- **[meetfuse](https://github.com/pavelsamoylenko/meetfuse)** — Telegram bot for instant video meetings. One command to spin up a Google Meet, Zoom, or Yandex Telemost room. TypeScript, Docker.
+- **[meetfuse](https://github.com/pavelsamoylenko/meetfuse)** — Telegram bot for instant video meetings. One command to spin up a Google Meet, Zoom, or Yandex Telemost room. TypeScript, Docker. [Site](https://meetfuse.pavelsamoylenko.com)
 
 #### OSS Contributions
 
