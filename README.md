@@ -17,6 +17,10 @@ CTO & Co-founder at [Playbox AI](https://plbx.ai) — building an AI production 
 - **[Xsite](https://xsite.com)** — AI self-guided tours with AR. First engineer, built end-to-end, hired the team.
 - **HSE AR Navigation** — Country's first markerless indoor positioning system. Raised grants as a student. [Demo](https://youtu.be/x0YYQIk13RM)
 
+#### Pet Projects
+
+- **[meetfuse](https://github.com/pavelsamoylenko/meetfuse)** — Telegram bot for instant video meetings. One command to spin up a Google Meet, Zoom, or Yandex Telemost room. TypeScript, Docker.
+
 #### OSS Contributions
 
 - **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** — Local-first AI notepad for meetings. Added speaker diarization via pyannote, fixed timestamp offset in multi-transcript exports.
