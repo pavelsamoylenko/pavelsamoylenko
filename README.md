@@ -18,7 +18,7 @@ CTO & Co-founder at [Playbox AI](https://plbx.ai) — building an AI production 
 #### OSS Contributions
 
 - **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** — Speaker diarization, timestamp export fix
-- **[dilmerv/GeospatialCreatorDemos](https://github.com/dilmerv/GeospatialCreatorDemos)** — Build dependencies fix
+- **[dilmerv/GeospatialCreatorDemos](https://github.com/dilmerv/GeospatialCreatorDemos)** — Build pipeline automation
 
 #### Links
 
