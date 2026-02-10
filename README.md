@@ -15,7 +15,7 @@ CTO & Co-founder at [Playbox AI](https://plbx.ai) — building an AI production 
 #### Side Projects & OSS
 
 - **[meetfuse](https://meetfuse.pavelsamoylenko.com)** — Telegram bot for instant video meetings. One command to spin up a Google Meet, Zoom, or Yandex Telemost room. TypeScript, Docker.
-- **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** — Speaker diarization, timestamp export fix
+- **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** — Speaker diarization, multi-session transcript export
 - **[dilmerv/GeospatialCreatorDemos](https://github.com/dilmerv/GeospatialCreatorDemos)** — Build pipeline automation
 
 #### Links
