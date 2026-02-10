@@ -20,4 +20,4 @@ CTO & Co-founder at [Playbox AI](https://plbx.ai) — building an AI production 
 
 #### Links
 
-[LinkedIn](https://linkedin.com/in/pavel-samoylenko) · [X](https://x.com/pavelsamoylenko) · [Playbox AI](https://plbx.ai)
+[LinkedIn](https://linkedin.com/in/pavel-samoylenko) · [Playbox AI](https://plbx.ai)
