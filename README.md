@@ -15,6 +15,10 @@ CTO & Co-founder at [Playbox AI](https://plbx.ai) — building an AI production 
 #### Side Projects & OSS
 
 - **[meetfuse](https://meetfuse.pavelsamoylenko.com)** — Telegram bot for instant video meetings. One command to spin up a Google Meet, Zoom, or Yandex Telemost room. TypeScript, Docker.
+- **[Playbox Cocos Assistant](https://github.com/playbox-org/plbx-cocos-assistant)** — Cocos Creator extension that packages games into playable ads for 30+ ad networks. Built-in compression, preview validator, and cloud deploy. Core developer.
+
+#### OSS Contributions
+
 - **[fastrepl/hyprnote](https://github.com/fastrepl/hyprnote)** — Speaker diarization, multi-session transcript export
 - **[dilmerv/GeospatialCreatorDemos](https://github.com/dilmerv/GeospatialCreatorDemos)** — Build pipeline automation
 
